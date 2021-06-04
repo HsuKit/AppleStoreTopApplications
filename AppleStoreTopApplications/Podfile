@@ -1,0 +1,13 @@
+source 'https://github.com/CocoaPods/Specs.git'
+# platform :ios, '9.0'
+
+target 'AppleStoreTopApplications' do
+    pod 'MJRefresh'
+    pod 'SDWebImage'
+    pod 'FMDB', '~> 2.5'
+    pod 'FMDBTool', '~> 1.1.1'
+    pod 'Masonry', '1.1.0'
+    pod 'AFNetworking'
+
+end
+
